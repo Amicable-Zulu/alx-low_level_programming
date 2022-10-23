@@ -1,9 +1,9 @@
 #include <stdio.h>
-#include <stdiib.h>
+#include <stdlib.h>
 #include <time.h>
 
 /**
- * main - main function to geneerate a random number
+ * main - prints if the number is positive, negative or 0
  *
  * Return: Always 0 (Success)
  *
